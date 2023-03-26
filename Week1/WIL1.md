@@ -5,12 +5,15 @@
    
    __View__ : 레이아웃, 화면 처리
    
-   __Controller__ : 명령을 모델과 뷰 부분으로 라우티
+   __Controller__ : 명령을 모델과 뷰 부분으로 라우팅
 
 ## API와 서버
-     json이라는 데이터 구조 포맷으로 클라이언트에 데이터 전달
 
-## RESTFful
+     json이라는 데이터 구조 포맷으로 클라이언트에 데이터 전달
+     
+
+## RESTful
+
     - REST는 Representational State Transfer의 약자.
-    -자원을 URI로 표시하고 해당 자원의 상태를 주고 받는 것
+    - 자원을 URI로 표시하고 해당 자원의 상태를 주고 받는 것
     - RESTful - REST를 구현하는 웹 서비스를 나타태기 위해 사용되는 용어
